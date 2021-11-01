@@ -6,3 +6,5 @@ vnfName: affordable_vnfd
 vimAccountName: dummyvim
 kdu:
   name: nemergent
+  params:
+    replicaCount: "2"
