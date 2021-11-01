@@ -1,0 +1,8 @@
+kind: NsInstance
+name: nemergent
+description: Demo Nemergent NS instance
+nsdName: affordable_nsd
+vnfName: affordable_vnfd
+vimAccountName: dummyvim
+kdu:
+  name: nemergent
